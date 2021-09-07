@@ -14,5 +14,5 @@ block-hac
 ## screenshots
 
 <p align="center">
-  <img width="100%" src="screenshots/1.PNG />
+  <img width="100%" src="screenshots/1.PNG" />
 </p>
